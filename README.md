@@ -71,27 +71,19 @@ cv2.waitKey(0)
 ## Output:
 
 ### i) Read and display the image
-
-<br>
-<br>
+![Screenshot (19)](https://user-images.githubusercontent.com/94231938/225218139-af47cf92-45b9-4d56-9612-44fcdb673def.png)
 
 ### ii)Write the image
-
-<br>
-<br>
+![Screenshot (19)](https://user-images.githubusercontent.com/94231938/225218256-6d3bda45-37bc-4082-8caa-9e803185f8f8.png)
 
 ### iii)Shape of the Image
-
-<br>
-<br>
+![Screenshot (22)](https://user-images.githubusercontent.com/94231938/225218354-9c6025ae-5076-4701-9b09-2fa6429efd09.png)
 
 ### iv)Access rows and columns
-<br>
-<br>
+![Screenshot (20)](https://user-images.githubusercontent.com/94231938/225218382-f5ae6763-00af-47ec-9bb4-1a68f412da17.png)
 
 ### v)Cut and paste portion of image
-<br>
-<br>
+![Screenshot (21)](https://user-images.githubusercontent.com/94231938/225218445-1a6ee21f-ead5-41ea-86bb-25667dad1252.png)
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
